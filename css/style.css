@@ -1,0 +1,22 @@
+ul
+{
+    list-style-type: none;
+}
+
+.movie-pic {
+	width: 20%;
+	float: left;
+}
+
+.movie-title {
+	font-size: 30px;
+}
+
+.movie-pic-src {
+	width: 195px;
+	height: 292px;
+}
+
+.li-wrapper {
+	height: 300px;
+}
